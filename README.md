@@ -87,6 +87,5 @@
 🔧 **改善方式：**
 - 使用 **Bottom-up Heapify** 建堆，建堆只需 O(n)。
 - 減少 swap，用暫存變數替代交換。
-## Composite Sort
-
 ---
+## Composite Sort
